@@ -14,5 +14,9 @@ CipherX App Features:
 10. You can add Expense by pressing the Plus(+) button at the bottom and this will prompt you to a new overlay where you can add expenses.  
 11. You can add the amount, select the date, select the category included with Icon and give a description. After you’ve done click ‘Continue’, then the expense will be added to the Expenses List in the Expense Screen.  
 12. You can delete the expenses simply by swiping it.  
-13. You can navigate to Profile at the bottom where the Logout option is available. You can Logout after your work is done or want to login in with another account. 
+13. You can navigate to Profile at the bottom where the Logout option is available. You can Logout after your work is done or want to login in with another account.   
+
+<img src="https://github.com/suraajm21/CipherSchools-Flutter-Assignment/assets/96039244/814cc1ad-4265-46e8-b3f1-446e96b0aa66" width=300 height=600> 
+
+
 
