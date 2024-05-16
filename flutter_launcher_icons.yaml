@@ -1,0 +1,10 @@
+dev_dependencies:
+  flutter_launcher_icons: "^0.13.1"
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "dev_assets/icon.png"
+  adaptive_icon_background: "#191919"
+  adaptice_icon_foreground: "#ffffff"
+  min_sdk_android: 21
