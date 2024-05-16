@@ -10,7 +10,7 @@ CipherX App Features:
    
 6. The Sign In information is stored in the Firebase Database.
    
-8. If you don’t have an account you can register using the ‘Register Now’ available in the bottom.
+8. If you don’t have an account you can register using the ‘Register Now’ available in the bottom. _
 9. The Sign Up Screen opens where you can register using your Name, E-Mail and Password or with Google Account with certain Validators rules which need to be satisfied(i.e…, if you enter invalid details a message shows up to tell you that). 
 10. The Sign Up information is stored in the Firebase Database.
 11. Once the information is stored in the Database then you won't have to register instead you can directly Sign In and enter into the Home Screen.
