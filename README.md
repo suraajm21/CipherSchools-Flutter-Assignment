@@ -3,6 +3,7 @@
 CipherX App Features:
 
 1.The app opens with a Splash Screen that displays the Company Logo and Name.
+
 2. The next page welcomes the user with a short description prompting the user to forward to the next screen with a Plus Button(+).
 3. Next the Sign In screen where you can Sign In using your E-Mail and Password or Using Google Sign In.
 4. The Sign In information is stored in the Firebase Database.
