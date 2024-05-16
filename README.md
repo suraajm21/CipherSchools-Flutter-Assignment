@@ -18,7 +18,9 @@ CipherX App Features:
 
 # Screenshots:
 
-<img src="https://github.com/suraajm21/CipherSchools-Flutter-Assignment/assets/96039244/814cc1ad-4265-46e8-b3f1-446e96b0aa66" width=300 height=600> <img src="https://github.com/suraajm21/CipherSchools-Flutter-Assignment/assets/96039244/e223bde7-6450-4f8c-be5f-214d7edd602c" width=300 height=600> <img src="https://github.com/suraajm21/CipherSchools-Flutter-Assignment/assets/96039244/840a71b1-caf8-465a-9406-e69ee6f51fe3" width=300 height=600>  <img src="https://github.com/suraajm21/CipherSchools-Flutter-Assignment/assets/96039244/7db75041-707e-4e8c-9e56-b774b6a93688" width=300 height=600> <img src="https://github.com/suraajm21/CipherSchools-Flutter-Assignment/assets/96039244/725f9cdd-efc7-451b-bc48-bb058862d2ad" width=300 height=600>
+<img src="https://github.com/suraajm21/CipherSchools-Flutter-Assignment/assets/96039244/814cc1ad-4265-46e8-b3f1-446e96b0aa66" width=300 height=600> <img src="https://github.com/suraajm21/CipherSchools-Flutter-Assignment/assets/96039244/e223bde7-6450-4f8c-be5f-214d7edd602c" width=300 height=600> <img src="https://github.com/suraajm21/CipherSchools-Flutter-Assignment/assets/96039244/2f74d8c0-1bf7-47c7-8714-50278398c2b1" width=300 height=600>  <img src="https://github.com/suraajm21/CipherSchools-Flutter-Assignment/assets/96039244/7db75041-707e-4e8c-9e56-b774b6a93688" width=300 height=600> <img src="https://github.com/suraajm21/CipherSchools-Flutter-Assignment/assets/96039244/725f9cdd-efc7-451b-bc48-bb058862d2ad" width=300 height=600>
+
+
 
 
 
