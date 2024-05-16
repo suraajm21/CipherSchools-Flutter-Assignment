@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "426307921996",
+    "project_id": "cipherx-7d058",
+    "storage_bucket": "cipherx-7d058.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426307921996:android:038e07484dde4b6268ace9",
+        "android_client_info": {
+          "package_name": "com.example.cipherx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdjno2p3iePJx-jlal7ZldEAoZv_HDIFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426307921996:android:106d5ded88c150c968ace9",
+        "android_client_info": {
+          "package_name": "com.example.pratice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdjno2p3iePJx-jlal7ZldEAoZv_HDIFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
